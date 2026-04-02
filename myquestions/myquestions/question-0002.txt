@@ -1,0 +1,2 @@
+El Problema: Necesitas escalar datos numéricos manualmente sin usar librerías de Machine Learning (como sklearn).
+Tu Misión: Escribe una función llamada normalizar_min_max(df, columnas) que reciba un DataFrame y una lista de nombres de columnas. La función debe aplicar la fórmula de normalización Min-Max: (x - min) / (max - min) a cada una de las columnas indicadas y devolver el DataFrame transformado.
