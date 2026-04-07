@@ -1,0 +1,2 @@
+El Problema: Tienes una lista de categorías en formato texto (por ejemplo: ["perro", "gato", "ave"]) y necesitas convertirlas a números enteros para que un modelo de Machine Learning pueda procesarlas.
+Tu Misión: Escribe una función llamada codificar_etiquetas(labels) que utilice la herramienta LabelEncoder de la librería sklearn.preprocessing para transformar un array de strings en un array de números enteros.
