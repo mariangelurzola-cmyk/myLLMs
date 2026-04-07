@@ -1,2 +1,0 @@
-El Problema: Tienes una matriz de datos numéricos con valores en rangos muy diferentes (por ejemplo, una columna de 0 a 1 y otra de 1000 a 5000). Esto puede confundir a algunos algoritmos.
-Tu Misión: Escribe una función llamada escalar_caracteristicas(X) que reciba una matriz de numpy y utilice StandardScaler de la librería sklearn.preprocessing para transformar los datos de modo que tengan una media de 0 y una desviación estándar de 1.

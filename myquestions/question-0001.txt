@@ -1,5 +1,0 @@
-El Problema: Tienes un DataFrame con nombres de clientes sucios (con espacios y mayúsculas mal puestas) y sus correos electrónicos.
-Tu Misión: Escribe una función llamada limpiar_datos_clientes(df) que:
-1. Elimine espacios extras y ponga el nombre en 'Title Case' (ej: " JUAN perez " -> "Juan Perez").
-2. Extraiga el dominio del email en una nueva columna llamada 'dominio'.
-3. Devuelva el DataFrame resultante.
