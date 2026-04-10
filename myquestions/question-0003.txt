@@ -1,0 +1,3 @@
+Un sensor de presión en una tubería industrial reporta una serie de valores. 
+Identifica si el último valor recibido es una 'Anomalía'. Se considera anomalía
+si el valor está a más de 2 desviaciones estándar de la media de los datos previos.
