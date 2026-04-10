@@ -1,0 +1,3 @@
+Un motor hidráulico pierde presión a una tasa constante por cada hora de uso.
+Dada la presión inicial, la tasa de pérdida por hora y el tiempo de operación,
+calcula la presión final esperada. El resultado no puede ser inferior a 0.
